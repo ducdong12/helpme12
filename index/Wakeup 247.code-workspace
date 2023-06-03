@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Wakeup 247",
+		"liveServer.settings.port": 5501
+	}
+}
